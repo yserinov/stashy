@@ -17,7 +17,7 @@ setup(name='stashy',
       test_suite = 'tests',
       #scripts=['bin/stash'],
       #tests_require=open('test-requirements.txt').readlines(),
-      install_requires=open('requirements.txt').readlines(),
+      #install_requires=open('requirements.txt').readlines(),
       classifiers=[
         'Development Status :: 3 - Alpha',
         'License :: OSI Approved :: Apache Software License',
